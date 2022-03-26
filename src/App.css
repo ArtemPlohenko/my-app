@@ -18,3 +18,11 @@ p {
   margin: 10px;
   font-size: 18px;
 }
+
+.holder-block {
+  margin-top: 20px;
+  position: relative;
+  overflow-y: scroll;
+  height: 200px;
+  box-shadow: 1px 1px 5px #000;
+}
